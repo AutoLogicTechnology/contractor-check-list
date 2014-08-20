@@ -27,12 +27,15 @@ The above is a rundown - a simple list - but here we go into a bit more detail o
 
 ### Virtual Office &amp; Mail Forwarding
 
+This is entirely **optional**, but recommended.
+
 - Keep your residential address off of public record
 - Use it for the registered and service address
 - Make sure it includes mail forwarding for non-government mail, such as bank related mail
 
 ### Registering &amp; Companies House
 
+- Register [here]()
 - £15 at the time of writing
 - Takes 20 minutes and is all online
 - Certificate of Incorporation comes in via email (PDF)
