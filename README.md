@@ -30,6 +30,10 @@ These are considered the minimum steps one should take to get a business up and 
 - Register for Corporation Tax
 - Register for Value Added Tax (if applicable)
 - Register for Payroll (if applicable - most likely) 
+- Get an indemnity insurance policy
+    - Potentially a legal/contractual requirement (confirmation needed)
+    - Price is based on your business and income
+    - Your agency/contract might have specific requirements of your insurance. heck this out before purchasing
 
 ## Optional Steps
 
