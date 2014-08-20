@@ -33,7 +33,7 @@ These are considered the minimum steps one should take to get a business up and 
 - Get an indemnity insurance policy
     - Potentially a legal/contractual requirement (confirmation needed)
     - Price is based on your business and income
-    - Your agency/contract might have specific requirements of your insurance. heck this out before purchasing
+    - Your agency/contract might have specific requirements of your insurance. Check this out before purchasing
     - Can range between £300 - £1,000+ per year
 
 ## Optional Steps
@@ -45,7 +45,7 @@ These are additional steps and services you can utilise to help make your life e
     - Added protection from tax investigations
     - Helplines
     - Networking
-- Register a [Freeagent](https://freeagent.com) account  to make your accountancy very simple
+- Register a [Freeagent](https://freeagent.com) account to make your accountancy very simple
  - Provide it with access to the above tax systems
  - Hook it into your business bank account (if supported) for consolidattion of incoming and outgoing cash flow
  - Help us both out by using my referral code (10% discount): ` 43wr0t2g` ;-)
