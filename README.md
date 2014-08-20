@@ -53,6 +53,6 @@ These are additional steps and services you can utilise to help make your life e
 - Register a [Freeagent](https://freeagent.com) account to make your accountancy very simple
  - Provide it with access to the above tax systems
  - Hook it into your business bank account (if supported) for consolidattion of incoming and outgoing cash flow
- - STILL get an accountant. Freeagent doesn't replace or constitute legal advice (in my personal opinion)
+ - STILL get an accountant. Freeagent doesn't replace or constitute a complete 100% legal framework (in my personal opinion). Freeagent has an [accountant search facility](http://www.freeagent.com/accountants/accountants)
  - Help us both out by using my referral code (10% discount): ` 43wr0t2g` ;-)
 - Use [Moo](https://moo.com) to get some very fancy, professional business cards
