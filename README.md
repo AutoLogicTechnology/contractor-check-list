@@ -34,6 +34,7 @@ These are considered the minimum steps one should take to get a business up and 
     - Potentially a legal/contractual requirement (confirmation needed)
     - Price is based on your business and income
     - Your agency/contract might have specific requirements of your insurance. heck this out before purchasing
+    - Can range between £300 - £1,000+ per year
 
 ## Optional Steps
 
