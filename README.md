@@ -35,6 +35,11 @@ These are considered the minimum steps one should take to get a business up and 
     - Price is based on your business and income
     - Your agency/contract might have specific requirements of your insurance. Check this out before purchasing
     - Can range between £300 - £1,000+ per year
+- Find an accountant. You need someone to check the law for you regarding...
+    - Taxes
+    - Expenses and what you can and cannot claim
+    - Submitting tax returns, how and when
+    - (See below regarding Freeagent)
 
 ## Optional Steps
 
@@ -48,5 +53,6 @@ These are additional steps and services you can utilise to help make your life e
 - Register a [Freeagent](https://freeagent.com) account to make your accountancy very simple
  - Provide it with access to the above tax systems
  - Hook it into your business bank account (if supported) for consolidattion of incoming and outgoing cash flow
+ - STILL get an accountant. Freeagent doesn't replace or constitute legal advice (in my personal opinion)
  - Help us both out by using my referral code (10% discount): ` 43wr0t2g` ;-)
 - Use [Moo](https://moo.com) to get some very fancy, professional business cards
