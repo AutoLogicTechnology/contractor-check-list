@@ -12,36 +12,68 @@ This guide/list is mainly aimed at people in the UK. It covers registering a UK 
 
 These are considered the minimum steps one should take to get a business up and running. 
 
-- Register a limited company via Companies House
-    - £15 at the time of writing
-    - Takes 20 minutes and is all online
-    - Certificate of Incorporation comes in via email (PDF)
 - Get a "virtual office" or mail forwarding service
-    - Keep your residential address off of public record
-    - Use it for the registered and service address
-    - Make sure it includes mail forwarding for non-government mail, such as bank related mail
-- Get a business bank account
-    - This can take upwards of 20-30 **working** days
-    - The process generally involves a call from the bank 
-- Wait for your letter from HMRC containing your tax reference
-    - This takes upwards of two weeks
-    - You can't do anything tax related without this
-    - Companies House will initiate this with HMRC
+- Register a limited company via Companies House
 - Register for Corporation Tax
 - Register for Value Added Tax (if applicable)
 - Register for Payroll (if applicable - most likely) 
+- Get a business bank account
 - Get an indemnity insurance policy
-    - Potentially a legal/contractual requirement (confirmation needed)
-    - Price is based on your business and income
-    - Your agency/contract might have specific requirements of your insurance. Check this out before purchasing
-    - Can range between £300 - £1,000+ per year
-- Find an accountant. You need someone to check the law for you regarding...
-    - Taxes
-    - Expenses and what you can and cannot claim
-    - Submitting tax returns, how and when
-    - (See below regarding Freeagent)
+- Find an accountant
 
-## Optional Steps
+## In Detail
+
+The above is a rundown - a simple list - but here we go into a bit more detail on each step. We maintain lsit format to keep it simple to disgest and easy to follow.
+
+### Virtual Office &amp; Mail Forwarding
+
+- Keep your residential address off of public record
+- Use it for the registered and service address
+- Make sure it includes mail forwarding for non-government mail, such as bank related mail
+
+### Registering &amp; Companies House
+
+- £15 at the time of writing
+- Takes 20 minutes and is all online
+- Certificate of Incorporation comes in via email (PDF)
+
+## Registering for Taxes
+
+Before you can register online for the varies taxes, you have to wait for HMRC to send you your Unique Tax Reference (**UTR**). Companies House will let HMRC know you've registered a company, and thus HMRC will send you a letter (or several) containing this reference and inviting you to sign up for paying taxes.
+
+- This can all be done online using the government [Gateway](https://online.hmrc.gov.uk/) system
+- VAT registration is optional until a certain turn over is reached by your company
+ - Consult HMRC for this threshold and other finer details
+- Payroll is needed so you can submit payslips and pay Pay As You Earn (PAYE) and National Insurance (NI) contributions
+- Corporation tax focuses on your companies' profits
+
+### Business Bank Account
+
+- This can take upwards of 20-30 **working** days
+- The process generally involves a call from the bank 
+
+### Indemnity Insurance
+
+- Potentially a legal/contractual requirement (confirmation needed)
+- Price is based on your business and income
+- Your agency/contract might have specific requirements of your insurance. Check this out before purchasing
+- Can range between £300 - £1,000+ per year
+
+### Accountant
+
+- Help with taxes
+- Help with expenses and what you can and cannot claim
+- Undestanding how and when to submit tax returns
+- (See below regarding Freeagent)
+
+### Letters
+
+- Wait for your letter from HMRC containing your tax reference
+- This takes upwards of two weeks
+- You can't do anything tax related without this
+- Companies House will initiate this with HMRC
+
+## Optional Services &amp; Recommendations
 
 These are additional steps and services you can utilise to help make your life easier.
 
