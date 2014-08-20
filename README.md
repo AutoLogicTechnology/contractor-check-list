@@ -43,5 +43,5 @@ These are additional steps and services you can utilise to help make your life e
 - Register a [Freeagent](https://freeagent.com) account  to make your accountancy very simple
  - Provide it with access to the above tax systems
  - Hook it into your business bank account (if supported) for consolidattion of incoming and outgoing cash flow
- - Help us both out by using my referral code (10%): ` 43wr0t2g` ;-)
+ - Help us both out by using my referral code (10% discount): ` 43wr0t2g` ;-)
 - Use [Moo](https://moo.com) to get some very fancy, professional business cards
