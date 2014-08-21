@@ -7,7 +7,7 @@ None of the advice here is legal advice. Anything to do with cash flow, taxes, c
 
 ## Work In Progress
 
-THis list is still massively ongoing. There is a lot to be added and a lot to be clarified. Any comments, feedback, suggestions, etc, are all welcome. Pull requests, provided they're relevant and make sense, are also welcome.
+This list is still massively ongoing. There is a lot to be added and a lot to be clarified. Any comments, feedback, suggestions, etc, are all welcome. Pull requests, provided they're relevant and make sense, are also welcome.
 
 ## UK Contractors
 This guide/list is mainly aimed at people in the UK. It covers registering a UK based limited company and UK based services. 
