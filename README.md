@@ -27,21 +27,20 @@ These are considered the minimum steps one should take to get a business up and 
 
 ## In Detail
 
-The above is a rundown - a simple list - but here we go into a bit more detail on each step. We maintain lsit format to keep it simple to disgest and easy to follow.
+The above is a rundown - a simple list - but here we go into a bit more detail on each step. We maintain a list format to keep it simple to digest and easy to follow.
 
 ### Virtual Office &amp; Mail Forwarding
 
 This is entirely **optional**, but recommended.
 
-- Keep your residential address off of public record
+- Keep your residential address off public record
 - Use it for the registered and service address
 - Make sure it includes mail forwarding for non-government mail, such as bank related mail
 
 ### Registering &amp; Companies House
 
-- Register [here]()
-- £15 at the time of writing
 - Takes 20 minutes and is all online
+- Register [here](http://www.companieshouse.gov.uk/infoAndGuide/companyRegistration.shtml)
 - Certificate of Incorporation comes in via email (PDF)
 
 ## Registering for Taxes
@@ -58,27 +57,24 @@ Before you can register online for the varies taxes, you have to wait for HMRC t
 
 - This can take upwards of 20-30 **working** days
 - The process generally involves a call from the bank 
+- Some banks will give you a free banking period. Check out the deals on offer
+- Setting up a business bank account with the same bank as your personal account can be beneficial and speed up the process
+- Prepare to provide plenty of details to the bank about your business and your personal identity
 
 ### Indemnity Insurance
 
-- Potentially a legal/contractual requirement (confirmation needed)
-- Price is based on your business and income
+- Potentially a legal/contractual requirement (**confirmation needed**)
+- Price is based on your business and income, amongst other things
 - Your agency/contract might have specific requirements of your insurance. Check this out before purchasing
 - Can range between £300 - £1,000+ per year
 
 ### Accountant
 
-- Help with taxes
+- Get help with taxes and the legalities surrounding them
 - Help with expenses and what you can and cannot claim
 - Undestanding how and when to submit tax returns
+- Sign off your book at the end of your financial/tax year
 - (See below regarding Freeagent)
-
-### Letters
-
-- Wait for your letter from HMRC containing your tax reference
-- This takes upwards of two weeks
-- You can't do anything tax related without this
-- Companies House will initiate this with HMRC
 
 ## Optional Services &amp; Recommendations
 
@@ -93,5 +89,6 @@ These are additional steps and services you can utilise to help make your life e
  - Provide it with access to the above tax systems
  - Hook it into your business bank account (if supported) for consolidattion of incoming and outgoing cash flow
  - STILL get an accountant. Freeagent doesn't replace or constitute a complete 100% legal framework (in my personal opinion). Freeagent has an [accountant search facility](http://www.freeagent.com/accountants/accountants)
- - Help us both out by using my referral code (10% discount): ` 43wr0t2g` ;-)
+ - Help us both out by using my referral code (10% discount): `43wr0t2g`
 - Use [Moo](https://moo.com) to get some very fancy, professional business cards
+- Get a website in place so you can advertise your skills and experience
